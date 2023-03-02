@@ -17,5 +17,4 @@ This is the  project for marketing technical test. I developed it with React
 - I used conditional rendering to conditionally display button
 - I made mobile-first design
 - I used grid css for the mosaic layout
-# frontend-challenge
-# frontend-challenge
+
