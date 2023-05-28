@@ -1,4 +1,4 @@
-# Frontend challenge (React)
+# Frontend challenge (React.js)
 
 
 This is the  project for marketing technical test. I developed it with React
