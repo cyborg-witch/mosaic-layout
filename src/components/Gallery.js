@@ -54,7 +54,7 @@ export default function Gallery() {
         <div className="wrapper">
             <div className="box-text"><h3 className="wrapper-text">Connect people & spaces </h3> </div>
          {cards}
-         {isShown ?  <button className="wrapper-btn" onClick={getCards} >Button</button> : ""} 
+         <button className="wrapper-btn" onClick={getCards} >Button</button> 
         </div>
     )
 }
