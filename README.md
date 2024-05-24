@@ -1,7 +1,7 @@
 # Frontend challenge (React.js)
 
 
-This is the  project for marketing technical test. I developed it with React
+Mosaic layout. I developed it with React
 
 
 ## Features of this app
